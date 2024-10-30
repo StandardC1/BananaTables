@@ -1,2 +1,2 @@
-# Banana-Tables
+# BananaTables
 Interface for lua tables
