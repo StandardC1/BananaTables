@@ -1,2 +1,2 @@
-# Banana-Tables
-Interface for lua tables
+# BananaTables
+Interface for lua tables, first implemented in rust
